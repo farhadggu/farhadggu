@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farhad Gharagozlu (@farhadggu)
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Python(Django) , Celery(Redis/Rabbitmq), Docker
-- 💞️ I’m looking to collaborate on Django Projects
+- 👀 I’m interested in Web Programming & FrontEnd Developer
+- 🌱 Skills ==> ReactJS/NextJS/Django
+- 💞️ I’m looking to collaborate on ReactJS/NextJS Projects
 - 📫 How to reach me ==> farhadggu@gmail.com
